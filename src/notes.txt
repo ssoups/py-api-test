@@ -1,0 +1,5 @@
+Notes while learning python:
+
+- Must turn numbers to string to print
+- To check if var is equal to string us "=="
+- To change variable use "=="
